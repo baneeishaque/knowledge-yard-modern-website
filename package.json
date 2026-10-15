@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "displayName": "Work",
     "dependencies": {
-        "cordova-browser": "6.0.0"
+        "cordova-browser": "7.0.0"
     },
     "cordova": {
         "platforms": [
